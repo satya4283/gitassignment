@@ -7,3 +7,9 @@
 4. Devops
 
 5. Data Science
+
+6. prompt engineer
+
+7. AI engineer
+
+8. ML engineer
