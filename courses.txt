@@ -1,0 +1,5 @@
+1. Testing - Manual testing, SQl, core java, automation testing
+
+2. JAVA FULL STACK - core java, html,css, SQl
+
+3. PYTHON FULL STACK - Core Python, Frameworks,Danjo
